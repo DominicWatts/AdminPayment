@@ -1,6 +1,6 @@
 # Admin only payment method #
 
-Admin only payment method with configuration found under payments within Store > Confirmation.
+Admin only payment method with configuration found under payments within Store > Configuration.
 
 # Install instructions # 
 
