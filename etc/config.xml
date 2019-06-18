@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
-	<default>
-		<payment>
-			<admin>
-				<active>1</active>
-				<model>Xigen\AdminPayment\Model\Payment\Admin</model>
-				<order_status>pending</order_status>
-				<title>Admin Only Payment</title>
-				<allowspecific>0</allowspecific>
-				<group>offline</group>
-			</admin>
-		</payment>
-	</default>
+    <default>
+        <payment>
+            <admin>
+                <active>1</active>
+                <model>Xigen\AdminPayment\Model\Payment\Admin</model>
+                <order_status>pending</order_status>
+                <title>Admin Only Payment</title>
+                <allowspecific>0</allowspecific>
+                <group>offline</group>
+            </admin>
+        </payment>
+    </default>
 </config>
